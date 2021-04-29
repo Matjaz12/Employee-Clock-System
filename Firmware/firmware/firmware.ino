@@ -8,10 +8,10 @@
 
 // Communication
 
-const char* ssid = "Doma_WIFI";
-const char* password =  "enadva34"; 
+const char* ssid = "enter_your_ssid";
+const char* password =  "enter_your_password"; 
 const uint16_t port = 8090;
-const char * host = "192.168.1.4";
+const char * host = "enter_host_ip_addr";
 
 void connectToWiFi()
 {

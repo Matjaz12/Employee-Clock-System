@@ -3,7 +3,7 @@
 #include <QApplication>
 
 
-const std::string _serverIPAddress = "192.168.1.4";
+const std::string _serverIPAddress = "enter_server_ip_address";
 const unsigned int _serverPort = 8090;
 
 int main(int argc, char *argv[])
