@@ -2,7 +2,7 @@
 Full System build for tracking Employees work time</br>
 Make sure to update both server and client code, with your Network credentials</br>
 
-Requirements:<br/>
+### Requirements:<br/>
 
     Software:
     - SQLite3.c 
@@ -12,7 +12,7 @@ Requirements:<br/>
     -Microcontroller (in my case ESP32)
     -RFID Module
     
-The system consists of:<br/>
+### The system consists of:<br/>
 
     - TCP Server(Winsock -> Windows Based)
     - Database Adapter
@@ -41,12 +41,12 @@ it has 4 main features:<br/>
     
 The most interesting being the second feature, using it we can watch the updates on the database made by firmware client.
 
-<img src="images/gui_menu.PNG" width = "400">
-<img src="images/gui_emp.PNG" width = "400">
-<img src="images/gui_reg.PNG" width = "400">
-<img src="images/gui_del.PNG" width = "400">
+<img src="images/gui_menu.PNG" width = "300">
+<img src="images/gui_emp.PNG" width = "300">
+<img src="images/gui_reg.PNG" width = "300">
+<img src="images/gui_del.PNG" width = "300">
 
-System Demo</br>
+## System Demo</br>
 
 Employee clock before</br>
 <img src="images/gui_clk.PNG" width = "400">
