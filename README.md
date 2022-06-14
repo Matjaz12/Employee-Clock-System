@@ -1,4 +1,4 @@
-# Employee-Time-Clock
+# Employee-Clock-System
 Full System build for tracking Employees work time</br>
 Make sure to update both server and client code, with your Network credentials</br>
 
